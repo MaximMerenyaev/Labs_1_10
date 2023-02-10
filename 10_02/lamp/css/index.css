@@ -1,0 +1,15 @@
+button {
+  width: 100%;
+}
+
+.dark {
+  background-color: black;
+}
+
+.container{
+  transition: 1.5s;
+}
+
+#row {
+  transition: 1.5s;
+}
